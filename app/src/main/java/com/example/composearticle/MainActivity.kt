@@ -56,14 +56,12 @@ fun Article(title: String, pharagraph1: String, pharagraph2:String, modifier: Mo
         )
         Text(
             text = pharagraph1,
-            fontSize = 1.em,
             textAlign = TextAlign.Justify,
             modifier = modifier
                 .padding(start = 16.dp, end = 16.dp)
         )
         Text(
             text = pharagraph2,
-            fontSize = 1.em,
             textAlign = TextAlign.Justify,
             modifier = modifier
                 .padding(16.dp)
