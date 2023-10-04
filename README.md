@@ -1,4 +1,4 @@
 # ComposeArticle
  Practice: Compose Basics
  Screenshot
- ![Screenshot](img.png)
+ ![Screenshot](img_1.png)

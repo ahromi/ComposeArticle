@@ -83,7 +83,6 @@ fun BannerImage(title: String, pharagraph1: String, pharagraph2:String, modifier
             pharagraph1 = pharagraph1,
             pharagraph2 = pharagraph2,
             modifier = Modifier
-                .padding(16.dp)
         )
     }
 }
